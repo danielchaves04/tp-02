@@ -4,7 +4,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Crear un proyecto Angular
 
-Este es el primer TP del curso de angula.
+Este es el segundo TP del curso de angula.
 
 Alumno Daniel Chaves.
 
